@@ -1,0 +1,3 @@
+REM java -jar CustomAnnotator.jar C:\Users\IBM_ADMIN\workspace\WCA_DeploymentAutomation\resources\facetAndIndex.properties C:\Users\IBM_ADMIN\workspace\WCA_DeploymentAutomation\resources\host.properties C:\Users\IBM_ADMIN\workspace\WCA_DeploymentAutomation\resources\pearUpload.properties
+
+java -jar wca_auto-deploy.jar C:\Watson_AutomatedDeployment\facetAndIndex.properties C:\Watson_AutomatedDeployment\host.properties C:\Watson_AutomatedDeployment\pearUpload.properties
